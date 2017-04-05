@@ -22,11 +22,11 @@ INSTRUCCIONES PARA DESCARGAR EL PROYECTO DESDE GITHUB Y EJECUTARLO LOCALMENTE
 HEROKU
 *********************************************************************************************************************************************************
 1-Para validar el test1 de PSP5, acceder a la siguiente URL de la aplicacion desplegada en Heroku:
-	https://agile-coast-82989.herokuapp.com/psp4/test1
+	https://mighty-anchorage-18569.herokuapp.com/psp5/test1
 2-Para validar el test2 de PSP5, acceder a la siguiente URL de la aplicacion desplegada en Heroku:
-	https://agile-coast-82989.herokuapp.com/psp4/test2
+	https://mighty-anchorage-18569.herokuapp.com/psp5/test2
 3-Para validar el test3 de PSP5, acceder a la siguiente URL de la aplicacion desplegada en Heroku:
-	https://agile-coast-82989.herokuapp.com/psp4/test2
+	https://mighty-anchorage-18569.herokuapp.com/psp5/test3
 
 *********************************************************************************************************************************************************
 NOTAS:
